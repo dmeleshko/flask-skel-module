@@ -1,5 +1,4 @@
 # Skeleton Flask Application
-|python-ver|
 
 ## Description
 
